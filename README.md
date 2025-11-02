@@ -5,10 +5,15 @@
 ### User Profile
 
 **Persona:**
+<br>
 **Name:** Emma Martínez
+<br>
 **Age:** 29
+<br>
 **Occupation:** Mid-level UX/UI designer at a tech agency in Barcelona
+<br>
 **Background & Goals:** Emma has been working in design for several years and is actively seeking her next challenge at a forward‐thinking company — perhaps a start-up or creative studio where she can grow into a senior role. She visits your website because she wants to quickly assess your skills, style, and experience. She has limited time and will likely browse on a laptop during her commute or on mobile when she is between meetings.
+<br>
 **Behaviour and Needs:** Emma wants to see a concise overview of your professional identity, your best work, your technical skills, and maybe some personal touches (e.g., story about how you solve problems). She values visual clarity and expects the site to load fast, be easy to navigate, and present information in an elegant modern way. She might also view it from her mobile device so responsiveness is important. The site needs to help her answer: “Can this person design at my level? Would they fit our team and process? Are their skills and style relevant to what we do?”
 
 ### Information Architecture
