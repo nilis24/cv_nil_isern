@@ -27,3 +27,7 @@ In the visual design I made decisions to reflect professionalism, clarity, and a
 ### Link to the Figma Project
 
 [Figma Design – CV-Website](https://www.figma.com/design/V3vog87qMnNPdLgPeQ2OLz/CV-website?node-id=0-1&t=Wzcp4VuIBNY2jwUU-1)
+
+### Visit my site
+
+[Link to my live site](https://nilis24.github.io/cv_nil_isern/)
